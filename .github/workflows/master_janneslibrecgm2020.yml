@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'janneslibrecgm2020'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3771579e8e7648e4a73b540970fbb284 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f0ec0088a2b14eeeb3c43096601881f5 }}
         package: .
